@@ -1,7 +1,7 @@
 # Bike Sales Visualization with Google Sheets
 
 ## Overview
-This project analyzes bike sales data, focusing on customer demographics, commuting habits, and purchasing behaviors. The analysis was conducted using Google Sheets, involving data cleaning, pivot tables, and visualizations to create an interactive dashboard for stakeholders to explore trends and insights.
+This project analyzes bike sales data from [Kaggle](https://www.kaggle.com/datasets/panwararpit/bike-sales-data), focusing on customer demographics, commuting habits, and purchasing behaviors. The analysis was conducted using Google Sheets, involving data cleaning, pivot tables, and visualizations to create an interactive dashboard for stakeholders to explore trends and insights.
 
 ## Project Details
 
